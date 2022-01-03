@@ -11,9 +11,9 @@ We first generated summary table for each city, including the total rides, total
 
 #### Summary table by city type
 ||Total Rides|Total Drivers|Total Fares|Average Fare per Ride|Average Fare per Driver|
-| ------------- | ------------- | ------------- |------------- | ------------- |------------- |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 |Rural|125|537|$4,327.93|$34.62|$8.06|
-|Suburban	|625|8,570|$19,356.33|$30.97|$2.26
+|Suburban	|625|8,570|$19,356.33|$30.97|$2.26|
 |Urban|1,625|	59,602	|$39,854.38|$24.53|$0.67|
 
 
